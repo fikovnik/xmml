@@ -1,4 +1,3 @@
-xmml
-====
+# XMML
 
-(X) Model Manipula Language
+(X) Model Manipulation Language
